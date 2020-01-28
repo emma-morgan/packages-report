@@ -1,3 +1,8 @@
+#' ---
+#' output: github_document
+#' ---
+
+
 #Version Control with Git/GitHub
 #Updated 2020-01-27
 
