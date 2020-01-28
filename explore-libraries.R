@@ -1,3 +1,7 @@
+#Version Control with Git/GitHub
+#Updated 2020-01-27
+
+
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 
